@@ -5,11 +5,8 @@
 ```markdown
 <!-- Header -->
 
-
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
 
-<!-- 조회수 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeYoungin09%2FLeeyoungin.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### ✨ Hello, This is LeeYoungin, who is growing into a full-stack programmer! ✨
 
@@ -24,65 +21,58 @@
 - AI협업, 다양성 존중, 융합
 - 성장추구
 
-<!-- Body -->
+### 능숙한 것  Skills
+<!-- 과정 상에서 배운 것, 포트폴리오 등 -->
 
-### 🦾 Skills
-**🧑‍💻 Lang and Frameworks**
-<!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
-![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
-![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)<br>
+![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
-![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
-
-**🛠️ Infra and Tools**
-
-![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
-![colab](https://img.shields.io/badge/colab-F9AB00.svg?&style=for-the-badge&logo=googlecolab&logoColor=white)<br>
 ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
-![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
-![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
-```
 
-## 👒 Header 작성하기
 
-### **인삿말**
+react nextdotjs
+tailwindcss bootstrap npm  slack notion postman storybook figma
 
-<aside>
-🙇🏻 짧은 인사말 혹은 자신을 나타내는 한 줄 소개
+### 관심있는 것
+<!-- 개념질문, 어려운 질문, 아직 배우고 있는것, 배우고 싶은 것 -->
 
-</aside>
+![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
+recoil githubpages vercel mongodv
+![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
+![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 
-```markdown
-### Hi there 👋
-```
 
-```markdown
-### Hello I'm _____
-```
-
-```markdown
-### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 ______입니다!
-```
-
-- `#` 의 갯수로 글씨 크기를 조정 가능
+### 포트폴리오 (3개)
+|프로젝트명|맡은역할|GitHub주소|스크린샷|
+|---------|-------|---------|
+|화이트데이 사탕 주고받기 프로젝트|프론트엔드|...|...|
+|파이널 프로젝트|프론트엔드|...|...|
+|새로운기술 반영된 도전|개발?|...|...|
+|무난한프로젝트(여행,맛집,쇼핑몰,블로그)|ㅇㅇ|...|...|
 
 ### 방문자 수 카운터 (HITS)
 
 <aside>
 ⏳ 현재 방문한 페이지의 금일/누적 방문자수
-
 </aside>
+
+<!-- 조회수 -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeYoungin09%2FLeeyoungin.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+
+
+
+
+
+
 
 [HITS](https://hits.seeyoufarm.com/)
 
