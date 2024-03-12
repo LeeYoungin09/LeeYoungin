@@ -5,7 +5,7 @@
 ```markdown
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=360&text=%EC%97%B4%EC%A0%95%EC%A0%81+%EC%98%81%EB%A1%B1%ED%95%9C+%EA%B0%9C%EB%B0%9C%21%21&fontSize=70&fontAlign=50&fontAlignY=45&desc=Steady+States+Sustainable+Development&descSize=20&descAlign=50&descAlignY=60)
 
 
 ### ✨ Hello, This is LeeYoungin, who is growing into a full-stack programmer! ✨
