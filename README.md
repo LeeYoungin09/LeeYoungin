@@ -11,9 +11,15 @@
 <!-- 조회수 -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeeYoungin09%2FLeeyoungin.git&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### ✨ 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 _이영인_입니다! ✨
+### ✨ Hello, This is LeeYoungin, who is growing into a full-stack programmer! ✨
 
-- 개발, 디자인, 기획
+- Various technological challenges 
+- AI collaboration, respect for diversity
+- Building tool abilities, convergence
+- Continuous growth and synergy
+- Development, design, planning  
+
+-  개발, 디자인, 기획
 - 다양한 기술도전, 툴 도입
 - AI협업, 다양성 존중, 융합
 - 성장추구
