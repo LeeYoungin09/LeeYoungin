@@ -113,6 +113,10 @@
 
 ## 🕺🏻 Body 작성하기
 
+<!-- Top Langs - git에서 자주 사용하는 언어 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leeyoungin&layout=)
+
+
 ### Skill (Tech Stack)
 
 <aside>
